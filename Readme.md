@@ -51,7 +51,7 @@ npm install --force
 #### macOS/Linux
 1. Clone the repository:
 ```shell
-git clone https://github.com/thebugged/bookstore.git
+git clone https://github.com/thebugged/techstore.git
 ```
 
 2. Create a virtual environment: 
