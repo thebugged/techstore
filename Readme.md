@@ -3,7 +3,8 @@
 
 <details>
   <summary>Click to show images</summary>
-  <img src="ShowCase/1.png" alt="Image 1">
+  <div class="image-container">
+    <img src="ShowCase/1.png" alt="Image 1">
     <img src="ShowCase/2.png" alt="Image 2">
     <img src="ShowCase/3.png" alt="Image 3">
     <img src="ShowCase/4.png" alt="Image 4">
@@ -18,6 +19,8 @@
     <img src="ShowCase/13.png" alt="Image 13">
     <img src="ShowCase/14.png" alt="Image 14">
     <img src="ShowCase/15.png" alt="Image 15">
+  </div>
+
 </details>
 
 ## 
