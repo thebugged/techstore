@@ -4,11 +4,10 @@
 <details>
   <summary>Click to show images</summary>
 <p float="left">
-    <img src="ShowCase/1.png" width="20%">
-    <img src="ShowCase/2.png" width="20%">
-    <img src="ShowCase/3.png" width="20%">
-    <img src="ShowCase/4.png" width="20%">
-    <img src="ShowCase/5.png" width="20%">
+    <img src="ShowCase/1.png" width="33%">
+    <img src="ShowCase/2.png" width="33%">
+    <img src="ShowCase/3.png" width="33%">
+   
 </p>
 </details>
 
