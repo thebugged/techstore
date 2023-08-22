@@ -3,7 +3,7 @@
 
 <details>
   <summary>Click to show images</summary>
-  <div class="image-container">
+  <div style="display: grid; grid-template-columns: repeat(4, 1fr); grid-gap: 10px;">
     <img src="ShowCase/1.png" alt="Image 1">
     <img src="ShowCase/2.png" alt="Image 2">
     <img src="ShowCase/3.png" alt="Image 3">
