@@ -2,16 +2,33 @@
 ![Techstore](screenshot.png)
 
 <details>
-  <summary>Click to show images</summary>
-<p float="left">
+  <summary>Images</summary>
+  <p float="left">
     <img src="images/1.png" width="30%">
     <img src="images/2.png" width="30%">
     <img src="images/3.png" width="30%">
-   
-</p>
+  </p>
+  <p float="left">
+    <img src="images/4.png" width="30%">
+    <img src="images/5.png" width="30%">
+    <img src="images/6.png" width="30%">
+  </p>
+  <p float="left">
+    <img src="images/7.png" width="30%">
+    <img src="images/8.png" width="30%">
+    <img src="images/9.png" width="30%">
+  </p>
+  <p float="left">
+    <img src="images/10.png" width="30%">
+    <img src="images/11.png" width="30%">
+    <img src="images/12.png" width="30%">
+  </p>
+  <p float="left">
+    <img src="images/13.png" width="30%">
+    <img src="images/14.png" width="30%">
+    <img src="images/15.png" width="30%">
+  </p>
 </details>
-
-
 
 ## 
 # Techstore
