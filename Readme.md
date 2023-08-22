@@ -3,25 +3,16 @@
 
 <details>
   <summary>Click to show images</summary>
-  <div style="display: grid; grid-template-columns: repeat(4, 1fr); grid-gap: 10px;">
-    <img src="ShowCase/1.png" alt="Image 1">
-    <img src="ShowCase/2.png" alt="Image 2">
-    <img src="ShowCase/3.png" alt="Image 3">
-    <img src="ShowCase/4.png" alt="Image 4">
-    <img src="ShowCase/5.png" alt="Image 5">
-    <img src="ShowCase/6.png" alt="Image 6">
-    <img src="ShowCase/7.png" alt="Image 7">
-    <img src="ShowCase/8.png" alt="Image 8">
-    <img src="ShowCase/9.png" alt="Image 9">
-    <img src="ShowCase/10.png" alt="Image 10">
-    <img src="ShowCase/11.png" alt="Image 11">
-    <img src="ShowCase/12.png" alt="Image 12">
-    <img src="ShowCase/13.png" alt="Image 13">
-    <img src="ShowCase/14.png" alt="Image 14">
-    <img src="ShowCase/15.png" alt="Image 15">
-  </div>
-
+<p float="left">
+    <img src="ShowCase/1.png" width="20%">
+    <img src="ShowCase/2.png" width="20%">
+    <img src="ShowCase/3.png" width="20%">
+    <img src="ShowCase/4.png" width="20%">
+    <img src="ShowCase/5.png" width="20%">
+</p>
 </details>
+
+
 
 ## 
 # Techstore
