@@ -1,6 +1,24 @@
 
 ![Techstore](screenshot.png)
 
+<details>
+  <summary>Click to show images</summary>
+  ![Image 1](ShowCase/1.png)
+  ![Image 2](ShowCase/2.png)
+  ![Image 3](ShowCase/3.png)
+  ![Image 4](ShowCase/4.png)
+  ![Image 5](ShowCase/5.png)
+  ![Image 6](ShowCase/6.png)
+  ![Image 7](ShowCase/7.png)
+  ![Image 8](ShowCase/8.png)
+  ![Image 9](ShowCase/9.png)
+  ![Image 10](ShowCase/10.png)
+  ![Image 11](ShowCase/11.png)
+  ![Image 12](ShowCase/12.png)
+  ![Image 13](ShowCase/13.png)
+  ![Image 14](ShowCase/14.png)
+  ![Image 15](ShowCase/15.png)
+</details>
 
 ## 
 # Techstore
