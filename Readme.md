@@ -4,9 +4,9 @@
 <details>
   <summary>Click to show images</summary>
 <p float="left">
-    <img src="images/1.png" width="33%">
-    <img src="images/2.png" width="33%">
-    <img src="images/3.png" width="33%">
+    <img src="images/1.png" width="30%">
+    <img src="images/2.png" width="30%">
+    <img src="images/3.png" width="30%">
    
 </p>
 </details>
