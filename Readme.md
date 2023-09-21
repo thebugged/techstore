@@ -1,4 +1,6 @@
 
+![techstore](https://github.com/thebugged/techstore/assets/74977495/9f406141-aa0c-42d6-bad6-03c989e872b5)
+
 ![Techstore](screenshot.png)
 
 <details>
