@@ -1,36 +1,5 @@
 
-![techstore](https://github.com/thebugged/techstore/assets/74977495/9f406141-aa0c-42d6-bad6-03c989e872b5)
-
-![Techstore](screenshot.png)
-
-<details>
-  <summary>Images</summary>
-  <p float="left">
-    <img src="images/1.png" width="30%">
-    <img src="images/2.png" width="30%">
-    <img src="images/3.png" width="30%">
-  </p>
-  <p float="left">
-    <img src="images/4.png" width="30%">
-    <img src="images/5.png" width="30%">
-    <img src="images/6.png" width="30%">
-  </p>
-  <p float="left">
-    <img src="images/7.png" width="30%">
-    <img src="images/8.png" width="30%">
-    <img src="images/9.png" width="30%">
-  </p>
-  <p float="left">
-    <img src="images/10.png" width="30%">
-    <img src="images/11.png" width="30%">
-    <img src="images/12.png" width="30%">
-  </p>
-  <p float="left">
-    <img src="images/13.png" width="30%">
-    <img src="images/14.png" width="30%">
-    <img src="images/15.png" width="30%">
-  </p>
-</details>
+![Techstore](https://github.com/thebugged/techstore/assets/74977495/9f406141-aa0c-42d6-bad6-03c989e872b5)
 
 ## 
 # Techstore
