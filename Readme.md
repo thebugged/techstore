@@ -1,5 +1,5 @@
 
-![Techstore](https://github.com/thebugged/techstore/assets/74977495/9f406141-aa0c-42d6-bad6-03c989e872b5)
+![techstore](https://github.com/thebugged/techstore/assets/74977495/90d5e68d-d10e-44de-9aa4-ddad74e2f912)
 
 ## 
 # Techstore
