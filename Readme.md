@@ -1,7 +1,8 @@
 <div align="center">
   <br />
     <a href="">
-      <img src="https://github.com/thebugged/techstore/assets/74977495/897cf6ac-ad3f-4dfc-b72a-f2f15aaaffed"   alt="Banner">
+      <img src="https://github.com/thebugged/techstore/assets/74977495/92efc387-1e8c-44e6-b2ad-5a56944c9279)"
+   alt="Banner">
     </a>
   <br />
 
@@ -13,7 +14,7 @@
 
   <h3 align="center">Tech Store</h3>
    <div align="center">
-A dynamic web application tailored for tech products, with comprehensive CRUD functionality, seamless user authentication and login features, and an intuitive shopping experience with a streamlined cart checkout and secure payment processing.
+A web application tailored for tech products, with comprehensive CRUD functionality, seamless user authentication and login features, and an intuitive shopping experience with a streamlined cart checkout and secure payment processing.
     </div>
 </div>
 <br/>
