@@ -98,8 +98,6 @@ cd backend
 python manage.py runserver
 ```
 
-The app will be accessible at http://127.0.0.1:8000/.
-
 2. From the frontend directory run the React development server:
 ```shell
 cd frontend
