@@ -1,21 +1,34 @@
+<div align="center">
+  <br />
+    <a href="">
+      <img src="https://github.com/thebugged/techstore/assets/74977495/897cf6ac-ad3f-4dfc-b72a-f2f15aaaffed"   alt="Banner">
+    </a>
+  <br />
 
-![techstore](https://github.com/thebugged/techstore/assets/74977495/90d5e68d-d10e-44de-9aa4-ddad74e2f912)
+  <div>
+    <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react" />
+    <img src="https://img.shields.io/badge/-Django-black?style=for-the-badge&logoColor=white&logo=django&color=092E20" alt="django" />
 
-## 
-# Techstore
-This is a fully functional web app for tech products made using React(frontend) and Django(backend).
+</div>
 
+  <h3 align="center">Tech Store</h3>
+   <div align="center">
+A dynamic web application tailored for tech products, with comprehensive CRUD functionality, seamless user authentication and login features, and an intuitive shopping experience with a streamlined cart checkout and secure payment processing.
+    </div>
+</div>
+<br/>
 
-## Installation
+## Setup & Installation
+**Prerequisites**
 
+Ensure the following are installed;
+- [Git](https://git-scm.com/)
+- [Node.js](https://nodejs.org/en)
+- [Python (3.x)](https://www.python.org/downloads/)
 
-### Prerequisites
-- Python (3.x)
-- Node.js
+To set up this project locally, follow these steps:
 
-### Setting up the Environment
-
-#### Windows
+**Windows**
 1. Clone the repository:
 ```shell
 git clone https://github.com/thebugged/techstore.git
@@ -46,8 +59,7 @@ or
 npm install --force
 ```
 
-
-#### macOS/Linux
+**macOS/Linux**
 1. Clone the repository:
 ```shell
 git clone https://github.com/thebugged/techstore.git
@@ -77,12 +89,9 @@ or
 ```shell
 npm install --force
 ```
-
-
+<br/>
 
 ## Running the App
-The frontend and backend is not combined as usual, so you would need to run the sevrers seperately.
-
 1. From the backend directory run the Django development server:
 ```shell
 cd backend
