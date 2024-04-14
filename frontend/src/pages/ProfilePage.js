@@ -166,7 +166,7 @@ function ProfilePage() {
                                             )}</td>
                                             <td>
                                                 <LinkContainer to={`/order/${order._id}`}>
-                                                    <Button className='btn-sm btn-dark my-3'>Details</Button>
+                                                    <Button className='btn-sm btn-dark my-3' disabled>Details</Button>
                                                 </LinkContainer>
                                             </td>
                                         </tr>

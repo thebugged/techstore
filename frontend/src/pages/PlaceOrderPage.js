@@ -142,7 +142,8 @@ function PlaceOrderPage() {
                 <Button
                   type="button"
                   className="btn-block"
-                  disabled={cart.cartItems === 0}
+                  disabled={true}
+                  // disabled={cart.cartItems === 0}
                   onClick={placeOrder}
                 >
                   Place Order

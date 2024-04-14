@@ -24,7 +24,7 @@ const SectionDeals = () => {
               <Col sm={12} md={6} >
               <br/>
                 <div className="image">
-                  <img src={`${process.env.PUBLIC_URL}/images/sale.jpeg`} alt="" fluid='true' />
+                  <img src={`${process.env.PUBLIC_URL}/images/sale.jpeg`} alt=""/>
                 </div>
               </Col>
             </Row>
